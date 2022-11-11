@@ -1,0 +1,2 @@
+This folder consists of all the files which has the python code snippets used to build the model. 
+The model building phase has adding CNN layers,compiling the model,testing the model,observing the metrics and saving the model
