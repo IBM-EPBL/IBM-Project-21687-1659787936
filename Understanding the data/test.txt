@@ -1,1 +1,2 @@
-text.txt
+This folder consists of all the steps to be done before building the model and training the model with the data. 
+The steps include importing the required libraries,loading the data and preprocessing the data
